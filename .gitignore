@@ -2,3 +2,4 @@ scala/.idea/*
 scala/target/*
 metric/*
 layers/__pycache__/*
+.idea/
